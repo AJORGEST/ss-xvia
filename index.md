@@ -17,9 +17,9 @@ Ambiente de Produção
 
 * `Ubuntu  18.04, 64-bit 4 GB RAM, 200 GB de disco livre`
 
-Ambiente de produção é necessário termos vm's ou máquina de replica para os bancos, servidor central, servidores seguro e duas de banco de dados. 
+Ambiente de produção é necessário termos vm's, ou máquinas de cluster de bancos, vm's para o servidor central, servidor seguro, AC, e servidor de gerenciamento. 
 
-Obs: não será necessário equipamento para AC - em produção uma vez que será usado a mesma VM geradora de certificados.
+Obs: A máquina de AC é responsável pela geração e validação de assinatura dos certificados - "podendo ser  utilizada tanto em produção como desenvolvimento".
 
 
 

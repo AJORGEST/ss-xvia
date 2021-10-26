@@ -16,8 +16,15 @@ Ambiente recomendado para Desenvolvimento:
 *  Sistema Operacional:
 * `Ubuntu 18.04, 64-bit` 
 
-###  Nome da Máquina 04:  
+###  Nome da Máquina 03:  
 * `XVIA-DEV-CA` - Autoridade certificadora de Teste Autoridade de Carimbo de Tempo de Teste OCSP Responder
+* `Configuração minima` 1 GB RAM, 4 GB free disk space` 
+		
+*  Sistema Operacional:
+* `Ubuntu 18.04, 64-bit` 
+
+###  Nome da Máquina 04:  
+* `XVIA-HAPROXY` - loadbalancer entre os ss
 * `Configuração minima` 1 GB RAM, 4 GB free disk space` 
 		
 *  Sistema Operacional:
